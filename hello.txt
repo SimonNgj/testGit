@@ -9,5 +9,8 @@ int main()
 	{
 		cout<<"Number: "<<i<<endl;
 	}
+
+	cout<<"This is my test"<<endl;
+
 	return 0;
 }
