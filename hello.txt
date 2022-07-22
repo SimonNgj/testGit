@@ -1,0 +1,17 @@
+// Welcome to git world
+// This is o test git
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+	for (int i = 0; i < 5; i++)
+	{
+		cout<<"Number: "<<i<<endl;
+	}
+
+	cout<<"This is my test"<<endl;
+
+	return 0;
+}
